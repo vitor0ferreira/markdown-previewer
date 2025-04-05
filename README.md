@@ -55,7 +55,7 @@ http://localhost:3000
 - Suporte a sintaxes básicas como títulos, listas, negrito, itálico, blocos de código e links.
 
 ## 📷 Captura de tela
-![print_do_projeto]("/image.png")
+![print_do_projeto]("/public/image.png")
 
 ## 📚 Créditos
 Este projeto faz parte do currículo da certificação Front-End Development Libraries do FreeCodeCamp.
